@@ -396,5 +396,7 @@ combos:
   l: [qwerty]
 - p: [43, 44, 7]
   k: {t: Cole, h: toggle}
+  l: [qwerty]
 - p: [43, 44, 20]
   k: {t: qwerty, h: toggle}
+  l: [Cole]
