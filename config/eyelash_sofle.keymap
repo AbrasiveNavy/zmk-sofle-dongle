@@ -55,12 +55,6 @@
             key-positions = <43 44 7>;
             layers = <0 1>;
         };
-
-        qwerty {
-            bindings = <&tog 0>;
-            key-positions = <43 44 20>;
-            layers = <1 0>;
-        };
     };
 
     keymap {
