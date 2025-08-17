@@ -391,12 +391,9 @@ layers:
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
-- p: [0, 13]
-  k: {t: '`', s: '~'}
-  l: [qwerty]
 - p: [43, 44, 7]
   k: {t: Cole, h: toggle}
-  l: [qwerty]
+  l: [qwerty, Cole]
 - p: [43, 44, 20]
   k: {t: qwerty, h: toggle}
-  l: [Cole]
+  l: [Cole, qwerty]
